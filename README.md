@@ -13,7 +13,7 @@ $ brew tap jjochen/cask
 You can now install my Casks.
 
 ```sh
-$ brew cask install model01-commander
+$ brew cask install model01commander
 ```
 
 ## License
