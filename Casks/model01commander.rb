@@ -1,6 +1,6 @@
 cask 'model01commander' do
-  version '0.1.0'
-  sha256 'a2d39057b6f5f3dee2c9ed2fa99799c4a82052e830e683ab6bb7733b76a9e303'
+  version '0.1.1'
+  sha256 '3ca0f75b1e637784d95afee7bff32fb1d4b08e7a66a14b4f99aa6788469347e5'
 
   url "https://github.com/jjochen/Model01Commander/releases/download/#{version}/Model01Commander.zip"
   name 'Model01Commander'
